@@ -1,6 +1,6 @@
-# empty-project
+# Typescript
 
-Empty project.
+Sample of typescript react component with Jest and Enzyme
 
 ## Building and running on localhost
 
