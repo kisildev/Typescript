@@ -1,0 +1,10 @@
+{
+  "setupFiles": [
+    "<rootDir>/adapter.setup.js"
+  ],
+  "transform": {
+    "\\.jsx?$": "babel-jest",
+    "^.+\\.(ts|tsx)$": "ts-jest",
+    "\\.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2)$": "jest-transform-stub"
+  }
+}
